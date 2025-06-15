@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hi who are you !!
 hello world!
 
+=======
+hi ,hello!!
+>>>>>>> 01046da (commited from teh repo B)
 
